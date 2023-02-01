@@ -1,0 +1,22 @@
+.cont{
+    width: fit-content;
+    padding: 20px;
+    margin-bottom: 70px;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.mainCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.errors{
+    margin:1%;
+    color: red;
+    font-weight: bold;
+
+}
+.level{
+    color:rgb(255, 255, 54);
+    font-weight: bold;
+}

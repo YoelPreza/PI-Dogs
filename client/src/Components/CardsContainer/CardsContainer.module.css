@@ -1,0 +1,41 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 300px);
+    gap: 20px;
+    place-content: center;
+   
+}
+
+.pagination{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    min-width: 100%;
+}
+.button{
+    background-color: transparent;
+    border: none;
+    margin-left: 9px;
+    margin-right: 9px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: transparent;
+    border: none;
+    margin-left: 9px;
+    margin-right: 9px;
+    cursor: pointer;
+    color: yellow;
+    font-weight: bold;
+
+
+}
+.numberOf{
+    font-family: ui-rounded;
+}
+.p{
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+

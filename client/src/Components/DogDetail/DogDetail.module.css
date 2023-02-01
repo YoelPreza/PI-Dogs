@@ -1,0 +1,38 @@
+.cardDetailCon{
+    display:flex;
+    justify-content: center;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(7,146,250,1) 50%, rgba(0,0,0,1) 100%);
+    padding: 25px;
+   
+}
+
+
+.cardDetail{
+
+    border: 1px solid white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 350px;
+    margin-top: -15;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(144,41,167,0.5578606442577031) 100%);
+}
+.imgDetail{
+    
+    width: 350px;
+    height:270px;
+    
+}
+
+.loading{
+    width: 400px;
+    height: 300px;
+    margin-top: 50px;
+}
+.letra{
+    margin-top: 10px;
+    color: white;
+}

@@ -1,0 +1,13 @@
+.mainContainer{
+    height: 30px;
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 15px;
+    border: 1px solid white;   
+    background: rgb(33, 10, 116);
+}
+.letra{
+    color: white;
+}
